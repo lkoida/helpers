@@ -1,7 +1,6 @@
 {
-    "name": "root/hints_and_helpers",
+    "name": "helpers/hints",
     "description": "dumper for databases",
-    "type": "git",
     "license": "MIT",
     "authors": [
         {
@@ -9,5 +8,7 @@
             "email": "leonidkoida@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=5.5.*",
+    }
 }
