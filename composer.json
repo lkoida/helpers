@@ -1,0 +1,14 @@
+{
+    "name": "root/hints_and_helpers",
+    "description": "dumper for databases",
+    "type": "git",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Leonid",
+            "email": "leonidkoida@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
